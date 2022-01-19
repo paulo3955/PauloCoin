@@ -1,0 +1,1 @@
+add network => brownie networks add [nome da sidechain] [nome da rede que estpu criando] host='' name='' chainid= 
